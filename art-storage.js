@@ -19,8 +19,8 @@ const rocket = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=49611">RainbowFinch</a>', points: "base | fullbody (2)", url: "img/art/rocket/rocketrainbowfinch.png"},
   { artist: 'base by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=6094">horsy1050</a>', points: "base | fullbody (2)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=1766479&size=large&format=png&rev=1385909034"},
   { artist: 'by Raxacorico', points: "fullbody (4)", url: "img/art/rocket/rocketrax.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=26705">Nikki6Ashba</a>', points: "headshot (1)", url: "img/art/rocket/rocketnikki.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=219096">Tealea</a>', points: "base | fullbody (2)", url: "img/art/rocket/rockettealea.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=26705">Nikki6Ashba</a>', points: "base | headshot (1), simple shading (1)", url: "img/art/rocket/rocketnikki.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=219096">Tealea</a>', points: "base | fullbody (2), simple shading (2)", url: "img/art/rocket/rockettealea.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=172796">Birchwood Hollow</a>', points: "fullbody (4)", url: "img/art/rocket/rocketbirch3.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=56916">corgie</a>', points: "fullbody (4)", url: "img/art/rocket/rocketcorgie2.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=286270">Charchar2</a>', points: "base | fullbody (2)", url: "img/art/rocket/rocketchar.png"},
@@ -36,12 +36,12 @@ const rocket = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/rocket/Rocketfb.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1)", url: "img/art/rocket/RocketHeadshot3.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=233249">pond.</a>', points: "base | headshot (1)", url: "img/art/rocket/RocketHeadshotCookie.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), complex shading (3)", url: "img/art/rocket/RocketHS2SM.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), complex shading (3)", url: "img/art/rocket/RocketHSSM.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), simple shading (1)", url: "img/art/rocket/RocketHS2SM.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), simple shading (1)", url: "img/art/rocket/RocketHSSM.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), simple shading (1)", url: "img/art/rocket/RocketIcon.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=61206">Lilian Nightshade</a>, ft Keiran', points: "headshot (1), complex shading (3)", url: "img/art/rocket/RocketLillianRT.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/rocket/RocketPixel.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/rocket/RocketPixel2.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/rocket/RocketPixel.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/rocket/RocketPixel2.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/rocket/rocketpixel3.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/rocket/RocketPixelLarge.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), complex shading (3)", url: "img/art/rocket/RocketThingy.png"},
@@ -51,10 +51,10 @@ const rocket = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/rocket/RocketTradDerp.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), simple shading (1)", url: "img/art/rocket/RocketTradHS.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1)", url: "img/art/rocket/WinterHeadshot2.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ,ft Estella and Classical', points: "fullbody (4), complex shading (3)", url: "img/art/rocket/AprilFoolsERC.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=233249">pond., ft Soliloquy</a>', points: "base | fullbody (2), complex background (2)", url: "img/art/rocket/RocketSolCookie.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft Classical and Estella', points: "fullbody (4), complex shading (3)", url: "img/art/rocket/AprilFoolsERC.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=233249">pond.</a>, ft Soliloquy', points: "base | fullbody (2), complex background (2)", url: "img/art/rocket/RocketSolCookie.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=540499">Shadowhunter,</a>, ft lots', points: "fullbody (4)", url: "img/art/herd/ArtByShadow.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft lots', points: "fullbody (4), simple shading (1)", url: "img/art/herd/TradWMEGroupSm.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft lots', points: "fullbody (4), complex shading (3)", url: "img/art/herd/TradWMEGroupSm.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft lots', points: "fullbody (4), simple shading (1)", url: "img/art/herd/HerdPicChibi.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft Honolulu & Ladybird', points: "fullbody (4)", url: "img/art/herd/MyHerd.png"},
 ];
@@ -63,5 +63,111 @@ const honolulu = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (3), simple shading (1)", url: "img/art/honolulu/hanafb.png"}
 ];
 
+const bruno = [
+];
+
 const ladybird = [
 ];
+
+const mocha = [
+];
+
+const classical = [
+];
+
+const soliloquy = [
+];
+
+const zachariah = [
+];
+
+const tia = [
+];
+
+const renee = [
+];
+
+const ciel = [
+];
+
+const vatra = [
+];
+
+const ariana = [
+];
+
+const estella = [
+];
+
+const adonis = [
+];
+
+const romulus = [
+];
+
+const viski = [
+];
+
+const saline = [
+];
+
+const godiva = [
+];
+
+const aleus = [
+];
+
+const fluffy = [
+];
+
+const cain = [
+];
+
+const bailey = [
+];
+
+const nettle = [
+];
+
+const hazel = [
+];
+
+const snickerdoodle = [
+];
+
+const caspian = [
+];
+
+const terracotta = [
+];
+
+const alsike = [
+];
+
+const douglas = [
+];
+
+const phoebe = [
+];
+
+const jasper = [
+];
+
+const dew = [
+];
+
+const polaris = [
+];
+
+const yorkshire = [
+];
+
+const acacia = [
+];
+
+const quincy = [
+];
+
+const argent = [
+];
+

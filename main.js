@@ -1,8 +1,17 @@
 
-//actual insert code
+//Functional code for inserting images from art-storage.js
 
-const wmeList = {rocket, honolulu, ladybird};
 var trackers = document.querySelectorAll(".tracker-body");
+
+//this is a little code for getting all the WMEs on the page -- can be used to update the wmeList manually (this is not automatic rn)
+	var wmeNamesAll = [];
+	for (i = 0; i < trackers.length; i++) {
+		wmeNamesAll.push(trackers[i].id);
+	}
+	console.log(wmeNamesAll)
+//grab that from the console log, remove the '', and slap into wmeList inside of {}
+
+wmeList = {rocket, honolulu, bruno, ladybird, mocha, classical, soliloquy, zachariah, tia, renee, ciel, vatra, ariana, estella, adonis, romulus, viski, saline, godiva, aleus, fluffy, cain, bailey, nettle, hazel, snickerdoodle, caspian, terracotta, alsike, douglas, phoebe, jasper, dew, polaris, yorkshire, acacia, quincy, argent};
 
 const imageHtml = '<div class="image-wrapper"><div class="left-arrow"></div><div class="right-arrow"></div><div class="close-button"><i class="fa-solid fa-xmark"></i></div><img><div class="lock-position"><span class="artist"></span><span class="points"></span></div></div>'
 
@@ -18,6 +27,13 @@ for (i = 0; i < trackers.length; i++) {
    		if (currentWME == wmeNames[j]) {
    			//get the content of that number from our base array
 	   		const wmeArt = Object.values(wmeList)[j];
+
+
+	   		//if there's no art, indicate that
+	   		if (wmeArt.length < 1) {
+		   		trackers[i].innerHTML = '<div style="text-align:center;width:100%;">Nothing here yet!</div>';
+		   	}
+
 
 	   		//then, run through each one
 	   		for (k = 0; k < wmeArt.length; k++) {
