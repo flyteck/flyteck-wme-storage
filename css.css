@@ -180,8 +180,8 @@ h1 img {
 .image-wrapper img {
 	pointer-events: none;
 	position: absolute;
-	max-width: 200%;
-	max-height: 200%;
+	width: 100%;
+    height: auto;
 	left: 0;
 	top: 0;
 	filter: blur(3px);
@@ -219,6 +219,7 @@ h1 img {
 	max-height: 100%;
 	filter: blur(0);
 	opacity: 1;
+	width: auto;
 }
 
 .image-wrapper.open .lock-position {
