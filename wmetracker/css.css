@@ -1,0 +1,254 @@
+:root {
+	--black: #150D0F;
+	--dark: #2C3535;
+	--mid: #3D4C4C;
+	--light: #708181;
+	--white: #F4F3EC;
+
+	--accent: #5B9898;
+	--accent-bright: #62C1A9;
+
+}
+
+body {
+	background: var(--dark);
+	color: var(--black);
+	font-family: 'Mooli';
+	margin: auto;
+	padding: 20px;
+	max-width: 1200px;
+}
+
+body.locked {
+	height: 100vh;
+	overflow: hidden;
+}
+
+a {
+	color: var(--accent);
+	text-decoration: none;
+	transition: 400ms ease;
+}
+
+a:hover, a:focus {
+	color: var(--accent-bright);
+}
+
+img {
+	max-width: 100%
+}
+
+h1, h2, h2 a {
+	font-family: 'Sedgwick Ave Display';
+	color: var(--white);
+}
+
+h1 {
+	font-size: 2.8em;
+	display: flex;
+	align-items: center;
+}
+
+h2 {
+	font-weight: 100;
+	font-size: 2.4em;
+	margin: 0;
+}
+
+h1 img {
+	width: 65px;
+	margin: 0 10px;
+	border-radius: 10px;
+}
+
+.flex-row {
+	display: flex;
+	gap: 10px;
+	margin: 10px 0;
+} 
+
+.wme-box {
+	background: var(--mid);
+	color: var(--white);
+	margin: 10px;
+	padding: 20px;
+	border: 1.5px solid var(--light);
+	border-radius: 2px;
+	position: relative;
+}
+
+.wme-box ul {
+	margin: 0;
+	padding-left: 10px;
+}
+
+.wme-box li {
+	list-style: none;
+	padding: 0;
+}
+
+.tracker-body {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.points-total, .points {
+	font-family: 'Alumni Sans SC';
+}
+
+.points {
+	line-height: 1;
+	text-align: center;
+	margin: 5px 10px;
+}
+
+.points-total {
+	position: absolute;
+	right: 0;
+	top: 0;
+	font-size: 1.4em;
+	font-weight: 500;
+	padding: 20px 30px;
+}
+
+.artist {
+	text-align: center;
+}
+
+.image-wrapper {
+	background: var(--light);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	width: 160px;
+	height: 100px;
+	overflow: hidden;
+	position: relative;
+	border: 1.5px solid black;
+	border-radius: 4px;
+	margin: 2.5px;
+	cursor: pointer;
+}
+
+.image-wrapper img {
+	pointer-events: none;
+	position: absolute;
+	max-width: 200%;
+	max-height: 200%;
+	left: 0;
+	top: 0;
+	filter: blur(3px);
+	transition: filter 50ms ease, max-width 0ms ease;
+	opacity: 0.8;
+}
+
+.lock-position {
+	z-index: 5;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    justify-content: center;
+
+    text-shadow: -1.5px -1.5px 0 var(--black), 0 -1.5px 0 var(--black), 1.5px -1.5px 0 var(--black), 1.5px 0 0 var(--black), 1.5px 1.5px 0 var(--black), 0 1.5px 0 var(--black), -1.5px 1.5px 0 var(--black), -1.5px 0 0 var(--black);
+}
+
+.image-wrapper.open {
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: calc(100% - 20px);
+	width: calc(100% - 20px);
+	z-index: 10;
+	margin: 0;
+	border-radius: 0;
+	border: none;
+	cursor: default;
+}
+
+.image-wrapper.open img {
+	pointer-events: none;
+	position: unset;
+	max-width: 100%;
+	max-height: 100%;
+	filter: blur(0);
+	opacity: 1;
+}
+
+.image-wrapper.open .lock-position {
+	margin: 10px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	display: block;
+}
+
+.left-arrow, .right-arrow {
+    display: none;
+    content: "";
+    background-image: url(img/angle-left-solid.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    position: absolute;
+    top: calc(50% - 20px);
+    transition: 300ms ease;
+    filter: invert(1);
+    cursor: pointer;
+}
+
+.image-wrapper.open .left-arrow, .image-wrapper.open .right-arrow {
+    opacity: 0.1;
+    display: block;
+}
+
+.image-wrapper.open .right-arrow {
+    background-image: url(img/angle-right-solid.svg);
+    right: 0;
+}
+
+.image-wrapper.open .left-arrow {
+    background-image: url(img/angle-left-solid.svg);
+    left: 0;
+}
+
+.image-wrapper.open .left-arrow:hover, .image-wrapper.open .left-arrow:focus, .image-wrapper.open .right-arrow:hover, .image-wrapper.open .right-arrow:focus {
+    opacity: 0.6;
+}
+
+.close-button {
+    display: none;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    position: relative;
+    margin-right: auto;
+    opacity: 0.6;
+    margin: 20px;
+    transition: 300ms ease;
+    cursor: pointer;
+}
+
+.close-button:hover, .close-button:focus {
+	opacity: 1;
+	color: var(--bright-accent);
+}
+
+.close-button i {
+	pointer-events: none;
+}
+
+.open .close-button {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
