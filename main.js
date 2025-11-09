@@ -28,12 +28,13 @@ for (i = 0; i < trackers.length; i++) {
    			//get the content of that number from our base array
 	   		const wmeArt = Object.values(wmeList)[j];
 
-
 	   		//if there's no art, indicate that
 	   		if (wmeArt.length < 1) {
 		   		trackers[i].innerHTML = '<div style="text-align:center;width:100%;">Nothing here yet!</div>';
 		   	}
 
+		   	//automatically list the number of art pieces above the dropdown
+		   	trackers[i].parentElement.querySelector(".art-count").innerHTML = "(" + wmeArt.length + ")";
 
 	   		//then, run through each one
 	   		for (k = 0; k < wmeArt.length; k++) {

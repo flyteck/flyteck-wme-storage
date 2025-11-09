@@ -92,8 +92,14 @@ h1 img {
 	flex-wrap: wrap;
 	max-height: 0;
 	overflow: hidden;
-	transition: 400ms ease;
+	transition: 200ms ease all, 400ms ease max-height;
 	position: relative;
+	opacity: 0;
+}
+
+.tracker-body.active {
+	padding: 10px 0;
+	opacity: 1;
 }
 
 .collapsible {
@@ -149,7 +155,9 @@ h1 img {
 	align-items: center;
 	justify-content: center;
 	padding: 10px;
-	width: 160px;
+	width: 15%;
+    flex: 1 1 auto;
+    min-width: 160px;
 	height: 100px;
 	overflow: hidden;
 	position: relative;
