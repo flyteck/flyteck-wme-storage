@@ -1,12 +1,12 @@
 const rocket = [
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), detailed shading (3)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/94291974_O3DZs98lznaBdjG.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), complex shading (3)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/94291974_O3DZs98lznaBdjG.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "fullbody (4)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964663_HoDUxxWOH0hX2x5.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | fullbody (2), simple shading (1)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964515_CykLtckCkvJ4Vuo.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | fullbody (2), simple shading (1)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964524_n8inMSlFEkzxraX.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | fullbody (2), simple shading (1)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964540_g1pqnkcv8xYGF1i.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=1488">Folktale</a>', points: "fullbody (4)", url: "img/art/rocket/folkrocket.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), complex shading (3), complex background (3)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=1164090&size=large&format=auto&rev=1347121048"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=88963">Soph6297</a>', points: "headshot (1)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=1167662&size=large&format=png&rev=1347304029"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=88963">Soph6297</a>', points: "headshot (1), simple shading (1)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=1167662&size=large&format=png&rev=1347304029"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=172796">Birchwood Hollow</a>', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/rocket/rocketbirch.png"},
   { artist: 'base by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=133150">Cloud-Wolf</a>', points: "base | fullbody(2), simple shading (1)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=1206776&size=large&format=png&rev=1349701309"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=208602">abhorsen</a>', points: "base | fullbody (2)", url: "img/art/rocket/rocketabhorsen.png"},
@@ -61,7 +61,7 @@ const rocket = [
 ];
 
 const honolulu = [
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), detailed shading (3)", url: "img/art/honolulu/hanafb.png"}
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), complex shading (3)", url: "img/art/honolulu/hanafb.png"}
 ];
 
 const bruno = [
@@ -170,5 +170,11 @@ const quincy = [
 ];
 
 const argent = [
+];
+
+const gnash = [
+];
+
+const affogato = [
 ];
 

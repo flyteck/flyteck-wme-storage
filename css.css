@@ -156,6 +156,7 @@ h1 img {
 	justify-content: center;
 	padding: 10px;
 	width: 15%;
+	max-width: 50%;
     flex: 1 1 auto;
     min-width: 160px;
 	height: 100px;
@@ -200,6 +201,7 @@ h1 img {
 	border-radius: 0;
 	border: none;
 	cursor: default;
+	max-width: 100%;
 }
 
 .image-wrapper.open img {

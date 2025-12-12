@@ -11,7 +11,7 @@ var trackers = document.querySelectorAll(".tracker-body");
 	console.log(wmeNamesAll)
 //grab that from the console log, remove the '', and slap into wmeList inside of {}
 
-wmeList = {rocket, honolulu, bruno, ladybird, mocha, classical, soliloquy, zachariah, tia, renee, ciel, vatra, ariana, estella, adonis, romulus, viski, saline, godiva, aleus, fluffy, cain, bailey, nettle, hazel, snickerdoodle, caspian, terracotta, alsike, douglas, phoebe, jasper, dew, polaris, yorkshire, acacia, quincy, argent};
+wmeList = {rocket, honolulu, bruno, ladybird, mocha, classical, soliloquy, zachariah, tia, renee, ciel, vatra, ariana, estella, adonis, romulus, viski, saline, godiva, aleus, fluffy, cain, bailey, nettle, hazel, snickerdoodle, caspian, terracotta, alsike, douglas, phoebe, jasper, dew, polaris, yorkshire, acacia, quincy, argent, gnash, affogato};
 
 const imageHtml = '<div class="image-wrapper"><div class="left-arrow"></div><div class="right-arrow"></div><div class="close-button"><i class="fa-solid fa-xmark"></i></div><img><div class="lock-position"><span class="artist"></span><span class="points"></span></div></div>'
 
@@ -231,4 +231,11 @@ for (i = 0; i < collapsible.length; i++) {
   });
 }
 
+//small snippet to hide broken images for now
 
+const img = document.querySelectorAll('img');
+for (i = 0; i < img.length; i++) {
+	img[i].addEventListener('error', () => {
+	  event.target.style.display = "none";
+	});
+}
