@@ -57,7 +57,8 @@ const rocket = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft lots', points: "fullbody (4), complex shading (3)", url: "img/art/herd/TradWMEGroupSm.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft lots', points: "fullbody (4), simple shading (1)", url: "img/art/herd/HerdPicChibi.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, ft Honolulu & Ladybird', points: "fullbody (4)", url: "img/art/herd/MyHerd.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=214917">Butter Dragon</a>', points: "base | headhsot (1), simple shading (1)", url: "img/art/rocket/23.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=214917">Butter Dragon</a>', points: "base | headshot (1), simple shading (1)", url: "img/art/rocket/23.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=41378">funnyfarm96</a>', points: "base | fullbody (2), simple shading (1)", url: "img/art/rocket/rocketsolfunny.png"},
 ];
 
 const honolulu = [
