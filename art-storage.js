@@ -202,9 +202,20 @@ const yorkshire = [
 const acacia = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=96320">Dark.</a>', points: "fullbody (4)", url: "img/art/acacia/acaciadark.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=87607">iShame</a>', points: "headshot (1), simple shading (1)", url: "img/art/acacia/acaciashame.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/acacia/acacia.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/acacia/acaciaembarassed.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/acacia/acaciayap.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/acacia/acaciaponder.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/acacia/acaciasurprise.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), simple animation (2)", url: "img/art/acacia/acaciapix.png"},
 ];
 
 const quincy = [
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/quincy/quincy.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/quincy/quincyannoyed.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/quincy/quincyconcerned.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/quincy/quincyexcited.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), complex animation (5)", url: "img/art/quincy/quincypix.png"},
 ];
 
 const argent = [
@@ -224,7 +235,6 @@ const gnash = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "halfbody (2), simple shading (1)", url: "img/art/gnash/gnashanger.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), complex animation (5)", url: "img/art/gnash/gnashwalk.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=519951">jensen ackles</a>', points: "fullbody (4)", url: "img/art/gnash/gnashjensen.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">Nalena</a>', points: "fullbody (4)", url: "img/art/gnash/gnashnalena.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">Nalena</a>', points: "fullbody (4)", url: "img/art/gnash/gnashnalena.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">TimeCapsuleEmo</a>', points: "headshot (1), simple shading (1)", url: "img/art/gnash/gnashelmo.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=245230">KathrynKat</a>', points: "fullbody (4), simple shading (1), simple bg (1)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=4365288&size=large&format=auto&rev=1765216339"},
