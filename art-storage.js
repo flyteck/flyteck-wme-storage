@@ -183,8 +183,8 @@ const douglas = [
 ];
 
 const phoebe = [
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/phobe/jkeg.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=87607">iShame</a>', points: "headshot (1)", url: "img/art/phobe/phobeshame.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/phoebe/jkeg.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=87607">iShame</a>', points: "headshot (1)", url: "img/art/phoebe/phobeshame.png"},
 ];
 
 const jasper = [
