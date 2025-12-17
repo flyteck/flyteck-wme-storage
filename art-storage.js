@@ -148,7 +148,7 @@ const hazel = [
 const snickerdoodle = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, base by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=481114">verseo</a>', points: "base | fullbody (2)", url: "img/art/snickerdoodle/babylinessnickerdoodle.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Vanilla Bean', points: "fullbody (4), simple shading (1), simple background (1)", url: "img/art/snickerdoodle/jsdfhfshjkfds.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Calamity', points: "fullbody (4)", url: "img/art/snickerdoodle/lesbians.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Calamity', points: "fullbody (4), simple shading (1)", url: "img/art/snickerdoodle/lesbians.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/snickerdoodle/snickerdoodle.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/snickerdoodle/Snickerdoodle2.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "fullbody (4)", url: "img/art/snickerdoodle/snickerdoodlebenjeep.png"},
@@ -157,6 +157,9 @@ const snickerdoodle = [
 ];
 
 const caspian = [
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/caspian/caspiandoodle.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "headshot (2)", url: "img/art/caspian/CaspianBenjeep2.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "N/A (sketch)", url: "img/art/caspian/caspianbenjeep.png"},
 ];
 
 const terracotta = [
@@ -180,6 +183,8 @@ const douglas = [
 ];
 
 const phoebe = [
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/phobe/jkeg.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=87607">iShame</a>', points: "headshot (1)", url: "img/art/phobe/phobeshame.png"},
 ];
 
 const jasper = [
@@ -195,6 +200,8 @@ const yorkshire = [
 ];
 
 const acacia = [
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=96320">Dark.</a>', points: "fullbody (4)", url: "img/art/acacia/acaciadark.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=87607">iShame</a>', points: "headshot (1), simple shading (1)", url: "img/art/acacia/acaciashame.png"},
 ];
 
 const quincy = [
@@ -204,6 +211,23 @@ const argent = [
 ];
 
 const gnash = [
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/gnashchib.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/gnashchibflowers.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/fullbody.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), complex shading (1), complex background (3)", url: "img/art/gnash/gnashrear.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "halfbody (2), simple shading (1)", url: "img/art/gnash/gnashhs.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/gnash.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/gnash/gnashconcern.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/gnash/gnashworry.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/gnash/gnashempty.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/gnash/gnashhappy.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "halfbody (2), simple shading (1)", url: "img/art/gnash/gnashanger.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), complex animation (5)", url: "img/art/gnash/gnashwalk.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=519951">jensen ackles</a>', points: "fullbody (4)", url: "img/art/gnash/gnashjensen.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">Nalena</a>', points: "fullbody (4)", url: "img/art/gnash/gnashnalena.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">Nalena</a>', points: "fullbody (4)", url: "img/art/gnash/gnashnalena.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">TimeCapsuleEmo</a>', points: "headshot (1), simple shading (1)", url: "img/art/gnash/gnashelmo.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=245230">KathrynKat</a>', points: "fullbody (4), simple shading (1), simple bg (1)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=4365288&size=large&format=auto&rev=1765216339"},
 ];
 
 const affogato = [
