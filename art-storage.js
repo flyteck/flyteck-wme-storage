@@ -100,8 +100,8 @@ const vatra = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Cain', points: "N/A (expression only)", url: "img/art/herd/cainvatracaintalking.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Cain', points: "N/A (expression only)", url: "img/art/herd/cainvatrapant.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Cain', points: "N/A (expression only)", url: "img/art/herd/cainvatravatratalking.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude, Gnash, & Cain', points: "halfbody (2), complex shading (3), complex background (3)", url: "img/art/herd/slide6.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/herd/slide8.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude, Gnash, & Cain', points: "halfbody (2), simple shading (1), complex background (3)", url: "img/art/herd/slide6.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/herd/slide8.png"},
 ];
 
 const ariana = [
@@ -140,8 +140,8 @@ const cain = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Vatra', points: "N/A (expression only)", url: "img/art/herd/cainvatracaintalking.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Vatra', points: "N/A (expression only)", url: "img/art/herd/cainvatrapant.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Vatra', points: "N/A (expression only)", url: "img/art/herd/cainvatravatratalking.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude, Gnash, & Vatra', points: "headshot (1), complex shading (3), complex background (3)", url: "img/art/herd/slide6.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/herd/slide8.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude, Gnash, & Vatra', points: "headshot (1), simple shading (1), complex background (3)", url: "img/art/herd/slide6.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/herd/slide8.png"},
 ];
 
 const bailey = [
@@ -175,8 +175,8 @@ const caspian = [
 ];
 
 const terracotta = [
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude & Gnash', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/herd/slide7.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/herd/slide8.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude & Gnash', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/herd/slide7.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/herd/slide8.png"},
 ];
 
 const alsike = [
@@ -222,7 +222,7 @@ const acacia = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/acacia/acaciaponder.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/acacia/acaciasurprise.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), simple animation (2)", url: "img/art/acacia/acaciapix.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/herd/slide8.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/herd/slide8.png"},
 ];
 
 const quincy = [
@@ -231,7 +231,7 @@ const quincy = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/quincy/quincyconcerned.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/quincy/quincyexcited.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), complex animation (5)", url: "img/art/quincy/quincypix.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "halfbody (2), complex shading (3), complex background (3)", url: "img/art/herd/slide8.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "halfbody (2), simple shading (1), complex background (3)", url: "img/art/herd/slide8.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude & Gnash', points: "headshot (1), simple shading (1), complex background (3)", url: "img/art/herd/slide9.png"},
 ];
 
@@ -242,7 +242,7 @@ const gnash = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/gnashchib.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/gnashchibflowers.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/fullbody.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/gnash/gnashrear.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/gnash/gnashrear.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "halfbody (2), simple shading (1)", url: "img/art/gnash/gnashhs.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/gnash/gnash.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "N/A (expression only)", url: "img/art/gnash/gnashconcern.png"},
@@ -252,12 +252,12 @@ const gnash = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "halfbody (2), simple shading (1)", url: "img/art/gnash/gnashanger.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), complex animation (5)", url: "img/art/gnash/gnashwalk.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Chip & Tyyga', points: "fullbody (4), complex background (3)", url: "img/art/herd/slide2.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude', points: "halfbody (2), complex shading (3), complex background (3)", url: "img/art/herd/slide5.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude, Cain, & Vatra', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/herd/slide6.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude & Terracotta', points: "fullbody (4), complex shading (3), complex background (3)", url: "img/art/herd/slide7.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "headshot (1), complex shading (3), complex background (3)", url: "img/art/herd/slide8.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude', points: "halfbody (2), simple shading (1), complex background (3)", url: "img/art/herd/slide5.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude, Cain, & Vatra', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/herd/slide6.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude & Terracotta', points: "fullbody (4), simple shading (1), complex background (3)", url: "img/art/herd/slide7.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft too many', points: "headshot (1), simple shading (1), complex background (3)", url: "img/art/herd/slide8.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude & Quincy', points: "headshot (1), simple shading (1), complex background (3)", url: "img/art/herd/slide9.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Jude & Quincy', points: "fullbody (4), simple shading (1), simple background (1)", url: "img/art/gnash/slide10.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1), simple background (1)", url: "img/art/gnash/slide10.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=519951">jensen ackles</a>', points: "fullbody (4)", url: "img/art/gnash/gnashjensen.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">Nalena</a>', points: "fullbody (4)", url: "img/art/gnash/gnashnalena.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">TimeCapsuleEmo</a>', points: "headshot (1), simple shading (1)", url: "img/art/gnash/gnashelmo.png"},
