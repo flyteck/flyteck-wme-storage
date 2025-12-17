@@ -153,6 +153,7 @@ const snickerdoodle = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/snickerdoodle/Snickerdoodle2.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "fullbody (4)", url: "img/art/snickerdoodle/snickerdoodlebenjeep.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), simple shading (1)", url: "img/art/snickerdoodle/snickerdoodlehs.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=219096">Tealea</a>', points: "base | fullbody (2), simple shading (1)", url: "img/art/snickerdoodle/snickerdoodletealea.png"},
 ];
 
 const caspian = [
@@ -162,6 +163,15 @@ const terracotta = [
 ];
 
 const alsike = [
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, base by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=481114">verseo</a>', points: "base | fullbody (2)", url: "img/art/alsike/babylinesalsike.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, base by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=481114">verseo</a> (w/o clover)', points: "base | N/A)", url: "img/art/alsike/babylinesalsike2.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), simple shading (1)", url: "img/art/alsike/alsike.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "headshot (1), simple shading (1)", url: "img/art/alsike/alsike2.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=597058">the legend leg</a>', points: "fullbody (1), simple shading (1), simple background (1)", url: "img/art/alsike/alsike2.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "headshot (1)", url: "img/art/alsike/alsikebutch.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=219096">Tealea</a>', points: "base | fullbody (2), simple shading (1)", url: "img/art/alsike/alsikesleepytealea.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/alsike/shamrock.png"},
+
 ];
 
 const douglas = [
