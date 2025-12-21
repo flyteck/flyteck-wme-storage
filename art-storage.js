@@ -1,7 +1,7 @@
 const rocket = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), complex shading (3)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/94291974_O3DZs98lznaBdjG.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "fullbody (4)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964663_HoDUxxWOH0hX2x5.png"},
-  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "fullbody (4)", url: "img/art/rocket/rocketbenjeepsilly"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=320913">benjeep</a>', points: "fullbody (4)", url: "img/art/rocket/rocketbenjeepsilly.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | fullbody (2), simple shading (1)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964515_CykLtckCkvJ4Vuo.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | fullbody (2), simple shading (1)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964524_n8inMSlFEkzxraX.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | fullbody (2), simple shading (1)", url: "https://f2.toyhou.se/file/f2-toyhou-se/images/95964540_g1pqnkcv8xYGF1i.png"},
@@ -102,6 +102,7 @@ const honolulu = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4)", url: "img/art/honolulu/HanaPixel.png"},
   { artist: 'by hipster', points: "base | fullbody (2)", url: "img/art/honolulu/HanaPixelAvie.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | headshot (1), simple shading (1)", url: "img/art/honolulu/HanaPixelIcon.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=6094">horsy1050</a>', points: "base | fullbody (4)", url: "https://www.chickensmoothie.com/oekaki/image/image.php?id=1766508&size=large&format=png&rev=1385910489"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=253815">rax</a>', points: "fullbody (4)", url: "img/art/honolulu/hanarax.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=87607">iShame</a>', points: "base | fullbody (2)", url: "img/art/honolulu/hanashame.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "base | fullbody (2), simple shading (1)", url: "img/art/honolulu/HanaSticker.png"},
@@ -110,12 +111,12 @@ const honolulu = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=540499">Shadowhunter,</a>', points: "fullbody (4)", url: "img/art/honolulu/hanasilly.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=348749">stabbrielle,</a>', points: "fullbody (4)", url: "img/art/honolulu/stabhana.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=972450">Nalena</a>', points: "fullbody (4)", url: "img/art/honolulu/hananalena.png"},
-
 ];
 
 const bruno = [
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>', points: "fullbody (4), simple shading (1)", url: "img/art/bruno/brunochib.png"},
   { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a> ft Honolulu & Twix', points: "fullbody (4), simple shading (1)", url: "img/art/honolulu/HanaEquidFamily.png"},
+  { artist: 'by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=227202">flyteck</a>, base by <a href="https://www.chickensmoothie.com/Forum/memberlist.php?mode=viewprofile&u=5569">hey-stardust</a> ft Honolulu & Twix', points: "fullbody (4), simple shading (1)", url: "img/art/honolulu/HanaFamily.png"},
 ];
 
 const ladybird = [
