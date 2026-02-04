@@ -162,6 +162,20 @@ h1 img {
 	text-align: center;
 }
 
+.level {
+	font-family: 'Alumni Sans SC';
+    display: inline-block;
+    font-size: 90%;
+    margin: 0 0 0 10px;
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+h2 {
+	display: flex;
+    align-items: flex-start;
+}
+
 .image-wrapper {
 	background: var(--light);
 	display: flex;
