@@ -236,6 +236,7 @@ span.tallied:before {
 	border: none;
 	cursor: default;
 	max-width: 100%;
+	z-index: 11;
 }
 
 .image-wrapper.open img {
