@@ -4,12 +4,13 @@
 var trackers = document.querySelectorAll(".tracker-body");
 
 //this is a little code for getting all the WMEs on the page -- can be used to update the wmeList manually (this is not automatic rn)
-	var wmeNamesAll = [];
-	for (i = 0; i < trackers.length; i++) {
-		wmeNamesAll.push(trackers[i].id);
-	}
-	console.log(wmeNamesAll)
+var wmeNamesAll = [];
+for (i = 0; i < trackers.length; i++) {
+	wmeNamesAll.push(trackers[i].id);
+}
+console.log(wmeNamesAll)
 //grab that from the console log, remove the '', and slap into wmeList inside of {}
+//so this can't be automatic rn bc if I grab em by name it won't refer to the objects :/
 
 wmeList = {rocket, honolulu, bruno, ladybird, mocha, classical, soliloquy, zachariah, tia, renee, ciel, vatra, ariana, estella, adonis, romulus, viski, saline, godiva, aleus, fluffy, cain, bailey, nettle, hazel, snickerdoodle, caspian, terracotta, alsike, douglas, phoebe, jasper, dew, polaris, yorkshire, acacia, quincy, argent, gnash, affogato};
 
@@ -45,6 +46,7 @@ for (i = 0; i < trackers.length; i++) {
 	   			var artist = wmeArt[k].artist;
 	   			var points = wmeArt[k].points;
 	   			var url = wmeArt[k].url;
+	   			var tallied = wmeArt[k].tallied;
 
 	   			//set the SRC
 	   			trackers[i].querySelectorAll("img")[k].src = url;
@@ -52,6 +54,11 @@ for (i = 0; i < trackers.length; i++) {
 	   			trackers[i].querySelectorAll(".artist")[k].insertAdjacentHTML("beforeend", artist)
 	   			//and add the points
 	   			trackers[i].querySelectorAll(".points")[k].innerHTML = points
+
+	   			//and indicate if it's been tallied 
+	   			if (tallied == "yes") {
+	   				trackers[i].querySelectorAll(".image-wrapper")[k].classList.add("tallied");
+	   			}
 	   		}
 
 	   		//math time!
