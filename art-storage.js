@@ -314,3 +314,17 @@ const gnash = [
 const affogato = [
 ];
 
+const solstice = [
+];
+
+const cheshire = [
+];
+
+const welsummer = [
+];
+
+const argyle = [
+];
+
+const ophelia = [
+];

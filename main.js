@@ -12,7 +12,7 @@ console.log(wmeNamesAll)
 //grab that from the console log, remove the '', and slap into wmeList inside of {}
 //so this can't be automatic rn bc if I grab em by name it won't refer to the objects :/
 
-wmeList = {rocket, honolulu, bruno, ladybird, mocha, classical, soliloquy, zachariah, tia, renee, ciel, vatra, ariana, estella, adonis, romulus, viski, saline, godiva, aleus, fluffy, cain, bailey, nettle, hazel, snickerdoodle, caspian, terracotta, alsike, douglas, phoebe, jasper, dew, polaris, yorkshire, acacia, quincy, argent, gnash, affogato};
+wmeList = {rocket, honolulu, bruno, ladybird, mocha, classical, soliloquy, zachariah, tia, renee, ciel, vatra, ariana, estella, adonis, romulus, viski, saline, godiva, aleus, fluffy, cain, bailey, nettle, hazel, snickerdoodle, caspian, terracotta, alsike, douglas, phoebe, jasper, dew, polaris, yorkshire, acacia, quincy, argent, gnash, affogato, solstice, cheshire, welsummer, argyle, ophelia};
 
 const imageHtml = '<div class="image-wrapper"><div class="left-arrow"></div><div class="right-arrow"></div><div class="close-button"><i class="fa-solid fa-xmark"></i></div><img><div class="lock-position"><span class="artist"></span><span class="points"></span></div></div>'
 
